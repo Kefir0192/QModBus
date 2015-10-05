@@ -1,4 +1,4 @@
-# QModBus is wrapper over libmodbus for Qt
+# QModBus is wrapper over libmodbus for Q 
 
 
 ## Description
